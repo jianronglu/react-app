@@ -1,3 +1,15 @@
+```zsh
+
+npm install -g create-react-app
+
+create-react-app react-tutorial
+
+cd react-tutorial/scr
+
+rm -rf *
+
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
